@@ -1,17 +1,24 @@
-uploads/
-vector_store/
-
+# Python
 __pycache__/
 *.pyc
 
+# Virtual environment
+myvirtual2/
 venv/
 .env
 
+# Streamlit cache
 .streamlit/
 
-*.log
+# Uploaded PDFs
+uploads/
 
-.ipynb_checkpoints/
+# Chroma database
+vector_store/
 
+# VS Code
+.vscode/
+
+# OS files
 .DS_Store
 Thumbs.db
