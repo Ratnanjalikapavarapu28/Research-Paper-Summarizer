@@ -130,7 +130,3 @@ streamlit run main.py
 # 📜 License
 
 This project is intended for **educational and learning purposes**.
-
----
-
-## ⭐ If you found this project useful, consider giving it a star on GitHub!
