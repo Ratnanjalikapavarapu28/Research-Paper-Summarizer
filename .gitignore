@@ -1,13 +1,11 @@
+uploads/
+vector_store/
+
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
 venv/
 .env
-
-uploaded_files/
-vector_store/
 
 .streamlit/
 
